@@ -1,6 +1,6 @@
 {
-    "name": "Simple Video Uploader",
-    "description": "Simple Video Uploader",
+    "name": "Simple Uploader",
+    "description": "Simple Uploader",
     "repository": "https://github.com/prxpostern/URLtoTG003",
     "success_url": "https://t.me/ali110ali",
     "stack": "heroku-20",
