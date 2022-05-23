@@ -1,4 +1,4 @@
-pyrogram
+pyrogram==2.0.5
 tgcrypto
 aiohttp
 requests
